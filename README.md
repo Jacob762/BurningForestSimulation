@@ -1,1 +1,1 @@
-# BurningForestSimulation
+# Burning Forest Simulation
